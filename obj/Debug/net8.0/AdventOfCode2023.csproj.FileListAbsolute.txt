@@ -1,0 +1,14 @@
+/Users/bmathews/Documents/Personal/AdventOfCode2023/bin/Debug/net8.0/AdventOfCode2023
+/Users/bmathews/Documents/Personal/AdventOfCode2023/bin/Debug/net8.0/AdventOfCode2023.deps.json
+/Users/bmathews/Documents/Personal/AdventOfCode2023/bin/Debug/net8.0/AdventOfCode2023.runtimeconfig.json
+/Users/bmathews/Documents/Personal/AdventOfCode2023/bin/Debug/net8.0/AdventOfCode2023.dll
+/Users/bmathews/Documents/Personal/AdventOfCode2023/bin/Debug/net8.0/AdventOfCode2023.pdb
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.AssemblyInfoInputs.cache
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.AssemblyInfo.cs
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.csproj.CoreCompileInputs.cache
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.dll
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/refint/AdventOfCode2023.dll
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.pdb
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.genruntimeconfig.cache
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/ref/AdventOfCode2023.dll
