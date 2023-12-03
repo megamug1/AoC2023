@@ -12,3 +12,4 @@
 /Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.pdb
 /Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.genruntimeconfig.cache
 /Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/ref/AdventOfCode2023.dll
+/Users/bmathews/Documents/Personal/AdventOfCode2023/obj/Debug/net8.0/AdventOfCode2023.sourcelink.json
