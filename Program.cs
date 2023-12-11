@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Day9Part2 day9 = new Day9Part2();
-        day9.Solve();
+        Day10Part2 day10 = new Day10Part2();
+        day10.Solve();
     }
 }
