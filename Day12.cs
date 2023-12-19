@@ -1,6 +1,3 @@
-
-using System.Diagnostics.CodeAnalysis;
-
 namespace AdventOfCode2023;
 
 
